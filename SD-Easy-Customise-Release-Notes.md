@@ -4,29 +4,31 @@
 
 #### Enhancements
 
-AppSource App - The message displayed when the Remove Extension action is chosen in the SD Easy Customise Tables list or when the Delete Line action in the Table Card is chosen was updated to inform the user that if a field is deleted it is also removed from all pages and reports that it has been placed to and all data stored in the field will be irretrievably lost.
+- AppSource App - The message displayed when the Remove Extension action is chosen in the SD Easy Customise Tables list or when the Delete Line action in the Table Card is chosen was updated to inform the user that if a field is deleted it is also removed from all pages and reports that it has been placed to and all data stored in the field will be irretrievably lost.
 
-AppSource App - A change was made to not allow users choose the Remove Extension action in the SD Easy Customise Tables list or the Delete Line action in the Table Card if the Extension Sync Mode on Setup Card is set to Add.
+- AppSource App - A change was made to not allow users choose the Remove Extension action in the SD Easy Customise Tables list or the Delete Line action in the Table Card if the Extension Sync Mode on Setup Card is set to Add.
 
-AppSource App - Functionality was created to allow users to commit their extension app changes to DevOps.
+- AppSource App - Functionality was created to allow users to commit their extension app changes to DevOps.
 
-AppSource App - To make changing of FlowField formulas less restrictive for published/pending fields users can now modify FlowField filters even if the field is published.
+- AppSource App - To make changing of FlowField formulas less restrictive for published/pending fields users can now modify FlowField filters even if the field is published.
 
-AppSource App - A change was made to how symbols for per tenant extensions are retrieved.
+- AppSource App - A change was made to how symbols for per tenant extensions are retrieved.
 
 #### Bug Fixes
 
-AppSource App - The Object ID was not picked up after downloading symbols. Table ID 50000 was in use by another App published as Dev. Symbols are now also downloaded for extensions published as Dev.
+- AppSource App - The Object ID was not picked up after downloading symbols. Table ID 50000 was in use by another App published as Dev. Symbols are now also downloaded for extensions published as Dev.
 
-AppSource App - The Place Selected to Pages action on the Table Card was not working.
+- AppSource App - The Place Selected to Pages action on the Table Card was not working.
 
-AppSource App - An error was raised when publishing the extension app that a CodeUnit with the same ID already existed. To fix this the field morphism CodeUnit ID was surfaced on the Setup Card so users can update this ID if needed.
+- AppSource App - An error was raised when publishing the extension app that a CodeUnit with the same ID already existed. To fix this the field morphism CodeUnit ID was surfaced on the Setup Card so users can update this ID if needed.
 
-AppSource App - An error was raised when publishing the extension app that the Page ID already exists. This was due to an API page using the same ID as an extension published as Dev. SD Easy Customise now also downloads symbols for extensions published as Dev.
+- AppSource App - An error was raised when publishing the extension app that the Page ID already exists. This was due to an API page using the same ID as an extension published as Dev. SD Easy Customise now also downloads symbols for extensions published as Dev.
 
-AppSource App - On first install of SD Easy Customise when the Setup cue was selected and the user chose yes to updating symbols an error was raised. This was fixed. The prompt to update symbols is now not raised until the Setup record is initialised.
+- AppSource App - On first install of SD Easy Customise when the Setup cue was selected and the user chose yes to updating symbols an error was raised. This was fixed. The prompt to update symbols is now not raised until the Setup record is initialised.
 
-AppSource App - An error was raised on publishing the extension app when an API Page for the Customer table was created. This was fixed.
+- AppSource App - An error was raised on publishing the extension app when an API Page for the Customer table was created. This was fixed.
+
+- AppSource App - With Published or Pending fields users could update the Field Name, Field Type, Field Class from the Fields FastTab in the Table Card. This was fixed.
 
 ### 2.0.0
 
