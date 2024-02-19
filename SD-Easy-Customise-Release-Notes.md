@@ -1,5 +1,11 @@
 ## SD Easy Customise Releases
 
+### 2.1.1
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to an error raised when a user chose yes to the validate licence prompt.
+
 ### 2.1.0
 
 #### Enhancements
