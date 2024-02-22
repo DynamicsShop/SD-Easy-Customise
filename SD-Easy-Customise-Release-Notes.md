@@ -1,5 +1,15 @@
 ## SD Easy Customise Releases
 
+### 2.1.2
+
+#### Enhancements
+
+- AppSource App - The logo in the SD Easy Customise App was updated to use our new logo.
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to an intermittent message raised when downloading symbols.
+
 ### 2.1.1
 
 #### Bug Fixes
