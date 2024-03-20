@@ -14,8 +14,6 @@
 
 - AppSource App - The text in a message displayed in the Page Controls page was updated.
 
-- AppSource App - The caption on the new Quick Entry Sequence FastTab on the SD Easy Customise Page Card was updated.
-
 #### Bug Fixes
 
 - AppSource App - The Placed option for HTML Editor Fields was showing as false even though field was placed on the Card. This was fixed.
