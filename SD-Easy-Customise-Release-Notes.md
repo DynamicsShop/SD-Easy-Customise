@@ -1,5 +1,29 @@
 ## SD Easy Customise Releases
 
+### 2.2.0
+
+#### Enhancements
+
+- AppSource App - New functionality was introduced to change the order of field input, changing the quick entry sequence, on a page. 
+
+- AppSource App - Functionality was added to allow users to associate a blob field on a table with a HTML Editor and surface the HTML Editor onto pages. 
+
+- AppSource App - The Default Object ID starting range was updated to default to 80,000 instead of 50,000 on new installs of SD Easy Customise. 
+
+- AppSource App - The caption on the new Quick Entry Sequence FastTab on the SD Easy Customise Page Card was updated.
+
+- AppSource App - The text in a message displayed in the Page Controls page was updated.
+
+- AppSource App - The caption on the new Quick Entry Sequence FastTab on the SD Easy Customise Page Card was updated.
+
+#### Bug Fixes
+
+- AppSource App - The Placed option for HTML Editor Fields was showing as false even though field was placed on the Card. This was fixed.
+
+- AppSource App - The content in the HTML Editor was not updating if you navigated through the records on which it was placed. This was fixed.
+
+- AppSource App - A fix was made for the "Content record cannot be saved because some information on the page is not up-to-date." error which ws raised on the Code Trigger list. 
+
 ### 2.1.2
 
 #### Enhancements
