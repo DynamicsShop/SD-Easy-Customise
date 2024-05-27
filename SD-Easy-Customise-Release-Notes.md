@@ -1,5 +1,13 @@
 ## SD Easy Customise Releases
 
+### 2.2.1
+
+#### Enhancements
+
+- AppSource App - A new option of moved was added to the ObsoleteState options and added in SD Easy Customise.
+
+- AppSource App - Due to a change made by Microsoft on how symbol files are now accessed, a fix was made to how the symbols are downloaded in SD Easy Customise.
+
 ### 2.2.0
 
 #### Enhancements
