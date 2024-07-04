@@ -1,5 +1,15 @@
 ## SD Easy Customise Releases
 
+### 2.2.2
+
+#### Enhancements
+
+- AppSource App - Functionality was added to migrate SD Easy Customise data from the original UAT Sandbox to a new UAT Sandbox environment. This ensures that users can now make additional changes to the extension app in a new Sandbox environment.
+
+- AppSource App - Action ToolTips in the SD Easy Customise Setup Card were updated.
+
+- AppSource App - A change was made when adding fields to a table to set the Enum No. field visible when Field Class is FlowField and Field Type is Enum.
+
 ### 2.2.1
 
 #### Enhancements
