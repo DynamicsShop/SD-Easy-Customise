@@ -1,5 +1,21 @@
 ## SD Easy Customise Releases
 
+### 2.3.0
+
+#### Enhancements
+
+- AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
+
+- AppSource App - Enhancements were made to the App Request Subscription page.
+
+- AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
+
+- AppSource App - Additional phrases were added as search phrases for the SD Intelli Pricing pages.
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to the error "The JSON path 'Kind' does not match any tokens." raised when Downloading Symbols.
+
 ### 2.2.2
 
 #### Enhancements
