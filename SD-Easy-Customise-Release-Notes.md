@@ -10,7 +10,7 @@
 
 - AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
 
-- AppSource App - Additional phrases were added as search phrases for the SD Intelli Pricing pages.
+- AppSource App - Additional phrases were added as search phrases for the SD Easy Customise pages.
 
 #### Bug Fixes
 
