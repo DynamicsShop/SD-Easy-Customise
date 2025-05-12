@@ -1,5 +1,49 @@
 ## SD Easy Customise Releases
 
+### 3.0.0
+
+#### Enhancements
+
+- AppSource App - Changes were made to the SD Easy Customise functionality to allow users to use SD Easy Customise in a Live environment. Users cannot publish the extension app they have created directly into the Live environment. Users can only download the extension app from their Live environment, test the extension app in their Sandbox environment and having tested their changes, load the tested extension app up to their Live environment using Extension Management.
+
+- AppSource App - Changes were made to the use of SD Easy Customise in Sandbox environments. Users can no longer download the extension app from a Sandbox environment. The extension app can only be published in the Sandbox environment. To free trial SD Easy Customise, users install SD Easy Customise in their Sandbox environment where they can publish the extension app directly into the Sandbox environment.
+
+- AppSource App - The Export Data and Restore From Backup options were removed from SD Easy Customise as all the data needed for SD Easy Customise and the details of the created extension app will now always be in the Live environment.
+
+- AppSource App - Changes were made to limit a free trial activation of SD Easy Customise Users to a Sandbox environment. A subscription licence is required to use SD Easy Customise in a Live environment. 
+
+- AppSource App - Changes were made to the functionality used to download symbols in a Production environment.
+
+- AppSource App - A minor change was made to the Setup Card to display a message if the Extension Sync Mode is changed from Add to Force.
+
+- AppSource App - A new Licence Install and Setup Wizard was created.
+
+- AppSource App - The Lead Subscription Link from the Request Subscription action in the Product Activation page was updated.
+
+- AppSource App - The notification to activate the app, displayed on fresh install of SD Easy Customise, was added to the standard Business Central role centres.
+
+- AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps.
+
+- AppSource App - Functionality was added to provide clearer API messages in commit errors when committing changes to a GitHub or DevOps repo.
+
+- AppSource App - The SD Easy Customise Source Control Entries page was surfaced.
+
+- AppSource App - A minor change was made to the About page.
+
+- AppSource App - ToolTips were updated on the Setup Card.
+
+- AppSource App - ToolTips were updated on the Table Field Card.
+
+- AppSource App - ToolTips were updated on the Table Fields List Part.
+
+- AppSource App - ToolTips were updated on the Table Card.
+
+- AppSource App - ToolTips were updated on the Page Card.
+
+- AppSource App - ToolTips were updated on the Page Fields List Part.
+
+- AppSource App - ToolTips were updated on the Report Card.
+
 ### 2.3.0
 
 #### Enhancements
