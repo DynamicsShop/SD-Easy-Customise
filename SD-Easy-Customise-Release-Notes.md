@@ -1,5 +1,13 @@
 ## SD Easy Customise Releases
 
+### 3.0.1
+
+#### Enhancements
+
+- AppSource App - A modification was made to the Setup Wizard.
+
+- AppSource App - A minor enhancement was made to the user experience flow on initial install of SD Easy Customise.
+
 ### 3.0.0
 
 #### Enhancements
