@@ -1,5 +1,23 @@
 ## SD Easy Customise Releases
 
+### 3.1.0
+
+#### Enhancements
+
+- AppSource App - The Field Morphisms structure was reviewed.
+
+- AppSource App - A change was made to the areas where user controls, i.e. the HTML editor, can be placed on pages. User controls can now only be placed before or after controls and not before or after fields.
+
+- AppSource App - The event "Sales-Post" OnBeforePostCustomerEntry was moved to "Sales Post Invoice Events" OnPostLedgerEntryOnBeforeGenJnlPostLine and the field morphism functionality was updated to reflect this.
+
+- AppSource App - The event "Purch.-Post" OnBeforePostVendorEntry was moved to "Purch. Post Invoice Events" OnPostLedgerEntryOnBeforeGenJnlPostLine and the field morphism functionality was updated to reflect this.
+
+- AppSource App - An action was added to the Trigger Code page to clear existing trigger code. 
+
+- AppSource App - A link to the user guide on the DynamicsShop page was added to the About page and to the Manage Subscriptions page.
+
+- AppSource App - A minor change was made to the Product Activation page.
+
 ### 3.0.1
 
 #### Enhancements
@@ -237,6 +255,7 @@
 - BCv22 App - Functionality was created to allow users surface newly created fields to pages in Business Central from within SD Easy Customise.  
 
 - BCv22 App - Functionality was created to allow users add a field to tables in Business Central from within SD AL Object Builder.  
+
 
 
 
