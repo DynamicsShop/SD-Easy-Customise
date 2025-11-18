@@ -1,5 +1,13 @@
 ## SD Easy Customise Releases
 
+### 3.1.1
+
+#### Enhancements
+
+- AppSource App - The SDY EC In Symbol Mgt. Codeunit was updated to allow for a new obsolete state of "PendingMove".
+
+- AppSource App - The notification prompting users to activate a free trial of SD Easy Customise on a fresh install has been limited to display no more than once per hour on standard role centres.
+
 ### 3.1.0
 
 #### Enhancements
@@ -255,6 +263,7 @@
 - BCv22 App - Functionality was created to allow users surface newly created fields to pages in Business Central from within SD Easy Customise.  
 
 - BCv22 App - Functionality was created to allow users add a field to tables in Business Central from within SD AL Object Builder.  
+
 
 
 
