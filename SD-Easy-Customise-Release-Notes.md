@@ -1,5 +1,11 @@
 ## SD Easy Customise Releases
 
+### 3.1.2
+
+#### Bug Fixes
+
+- AppSource App - An error raised when downloading symbols was fixed.
+
 ### 3.1.1
 
 #### Enhancements
@@ -263,6 +269,7 @@
 - BCv22 App - Functionality was created to allow users surface newly created fields to pages in Business Central from within SD Easy Customise.  
 
 - BCv22 App - Functionality was created to allow users add a field to tables in Business Central from within SD AL Object Builder.  
+
 
 
 
