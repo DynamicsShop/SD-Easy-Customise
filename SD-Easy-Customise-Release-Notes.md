@@ -1,5 +1,15 @@
 ## SD Easy Customise Releases
 
+### 3.1.4
+
+#### Enhancements
+
+- Enhanced error handling during extension publishing. If a dependency app has been uninstalled, the error message now includes the name of the missing page, report, table, or other object, helping users identify and remove missing dependency items.
+
+- Users can now add new option values to existing option fields after the extension app has been published.
+
+- A link to Report Layouts was added to the Report Card.
+
 ### 3.1.3
 
 #### Enhancements
